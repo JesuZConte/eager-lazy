@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hb-eager-vs-lazy-demo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hb_eager_vs_lazy_demo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hb-eager-vs-lazy-demo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hb-eager-vs-lazy-demo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
